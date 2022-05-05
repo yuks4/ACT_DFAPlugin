@@ -1,3 +1,6 @@
+#
+forked [qitana/ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)
+
 # ACT_DFAPlugin
 
 The add-on of [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin) which shows Duty Finder status.
